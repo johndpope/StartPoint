@@ -2,8 +2,6 @@
 
 **It's a experimental framework. Do not use in product environment.**
 
-**Currently, the "xpm" branch can not build automatically, because it depend on "xpm" (Xcode package manager) which is not available yet.**
-
 ---
 
 ### JSON
